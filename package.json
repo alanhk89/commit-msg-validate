@@ -1,6 +1,6 @@
 {
   "name": "commit-msg-validate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Alan Cheung",
   "description": "GIT COMMIT-MSG hook for validating commit message.",
   "license": "Unlicense",
